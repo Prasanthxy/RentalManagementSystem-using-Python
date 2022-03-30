@@ -1,6 +1,6 @@
 # INTRODUCTION
 
-  Rental Management Syste will be integrated with a concept in which the project will be handled and managed according to the expectations of the director. As a result of this Project, both the managing director and the end user have proper benefits with respect to their time complexity, etc.
+  Rental Management System will be integrated with a concept in which the project will be handled and managed according to the expectations of the director. As a result of this Project, both the managing director and the end user have proper benefits with respect to their time complexity, etc.
 
   "Rental management system" gives us all the information about the records of customers in any hotel management. This project allows the maintenance of customer records and information for ourday-to-day use and also for future expansion.
 
