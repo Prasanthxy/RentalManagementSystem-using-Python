@@ -6,20 +6,24 @@
 
 # OBJECTIVES
 
-  a) Create a system that can automatically receive input and translate it into output in an easy   way and in a short time.
-  b) Create a monitoring system that can manage and track Customers' information efficiently.
-  c) Provide an opportunity to management directories to eliminate manual errors. 
-  d) Store users' data properly to maintain security. 
-  e) Enter and archive details of various issues on a daily basis.
+  * a) Create a system that can automatically receive input and translate it into output in an easy   way and in a short time.
+  * b) Create a monitoring system that can manage and track Customers' information efficiently.
+  * c) Provide an opportunity to management directories to eliminate manual errors. 
+  * d) Store users' data properly to maintain security. 
+  * e) Enter and archive details of various issues on a daily basis.
 
 # BENEFITS:
  
-   (1) Record Maintenance. 
-   (2) Web-based Solution. 
-   (3) Saves Time and Cost. 
-   (4) Secure and Reliable. 
-   (5) Increases Efficiency. 
-   (6) Simple and Easy to Use.
+   * (1) Record Maintenance. 
+   * (2) Web-based Solution. 
+   * (3) Saves Time and Cost. 
+   * (4) Secure and Reliable. 
+   * (5) Increases Efficiency. 
+   * (6) Simple and Easy to Use.
+
+# SWOT ANALYSIS
+
+  <img width="474" alt="2022-03-30" src="https://user-images.githubusercontent.com/98865606/160888858-ec51b7ce-2ef1-4dc5-8cb4-3588c6578725.png">
 
 # 4W And 1H
 
@@ -35,6 +39,10 @@
 
    A Rental Management system will prove very useful when there are many customers coming together, such as during vacations or holidays.
 
-# WHERE
+ # WHERE
  
-  
+   The Rental Managements system is becoming more convenient for managerial directors as it minimizes manual work more effectively and efficiently.
+
+ # HOW
+
+   This project is designed to add, delete, or edit customer information based upon the input of a managerial director's id.
