@@ -23,7 +23,7 @@
 
 # SWOT ANALYSIS
 
-  <img width="474" alt="2022-03-30" src="https://user-images.githubusercontent.com/98865606/160888858-ec51b7ce-2ef1-4dc5-8cb4-3588c6578725.png">
+  <img width="640" alt="swot diagram" src="https://user-images.githubusercontent.com/98865606/160998208-d9be6f28-2a07-4a56-94a6-4c153ccda3d9.png">
 
 # 4W And 1H
 
