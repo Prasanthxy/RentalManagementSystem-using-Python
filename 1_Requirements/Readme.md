@@ -62,24 +62,10 @@
   |HR5|logout module|Implemented|
 
 ## Low Level Requirements
-| Id          | Low Level Requirements for HLR1   |    status  |
-| :--        | :--          |   :--     |
-| LLR1.1     | To update the name and address details of the customer  | Progress |
-
-
-| Id          | Low Level Requirements for HLR2   |    status  |
-| :--        | :--          |   :--     |
-| LLR2.1        | Details of the selected room and price | Progress |
-
-
-| Id          | Low Level Requirements for HLR2   |    status  |
-| :--        | :--          |   :--     |
-| LLR3.1        | If the user wishes to queries on food | Progress |
-
-| Id          | Low Level Requirements for HLR2   |    status  |
-| :--        | :--          |   :--     |
-| LLR4.1        |  Cost of the total food and stay | Progress |
-
-| Id          | Low Level Requirements for HLR2   |    status  |
-| :--        | :--          |   :--     |
-| LLR5.1        | The user logout the rental managemnet | Progress |
+  | Id    | Low Level Requirements for HLR1   |    status  |
+  | :---:|:---:|:---:|
+  | LLR1.1| To update the name and address details of the customer  | Progress |
+  | LLR2.1 | Details of the selected room and price | Progress |
+  | LLR3.1 | If the user wishes to queries on food | Progress |
+  | LLR4.1 |  Cost of the total food and stay | Progress |
+  | LLR5.1 | The user logout the rental managemnet | Progress |
