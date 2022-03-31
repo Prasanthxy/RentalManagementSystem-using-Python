@@ -47,3 +47,39 @@
  # HOW
 
    This project is designed to add, delete, or edit customer information based upon the input of a managerial director's id.
+
+
+# REQUIREMENTS
+
+ # High level requirements
+
+  |RID|DESCRIPTION|STATUS|
+  |:---:|:----:|:----:|
+  |HR1|Entering data|Implemented|
+  |HR2|Room rent|Implemented|
+  |HR3|Food purchased|Implemented|
+  |HR4|Total cost|Implemented|
+  |HR5|logout module|Implemented|
+
+## Low Level Requirements
+| Id          | Low Level Requirements for HLR1   |    status  |
+| :--        | :--          |   :--     |
+| LLR1.1     | To update the name and address details of the customer  | Progress |
+
+
+| Id          | Low Level Requirements for HLR2   |    status  |
+| :--        | :--          |   :--     |
+| LLR2.1        | Details of the selected room and price | Progress |
+
+
+| Id          | Low Level Requirements for HLR2   |    status  |
+| :--        | :--          |   :--     |
+| LLR3.1        | If the user wishes to queries on food | Progress |
+
+| Id          | Low Level Requirements for HLR2   |    status  |
+| :--        | :--          |   :--     |
+| LLR4.1        |  Cost of the total food and stay | Progress |
+
+| Id          | Low Level Requirements for HLR2   |    status  |
+| :--        | :--          |   :--     |
+| LLR5.1        | The user logout the rental managemnet | Progress |
