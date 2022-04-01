@@ -10,7 +10,7 @@
 # FLOW CHART DIAGRAM
 
   
- ![rental flowchart](https://user-images.githubusercontent.com/98865606/160893878-73f07618-45e7-45ec-9eb9-73c41bd1cdc7.jpg)
+ ![FlowChart_py drawio](https://user-images.githubusercontent.com/98865606/161252579-541dc672-6d59-4a3d-a724-05d53f56668f.png)
 
 
 # SEQUENCE DIAGRAM
