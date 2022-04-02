@@ -2,6 +2,11 @@
 
   <img width="640" alt="swot diagram" src="https://user-images.githubusercontent.com/98865606/160998208-d9be6f28-2a07-4a56-94a6-4c153ccda3d9.png">
 
+
+# PYLINT TEST
+
+  <img width="960" alt="Pylint test" src="https://user-images.githubusercontent.com/98865606/161383562-95f7a509-483d-4747-872b-871a0acbf9ae.png">
+
 # USER DIAGRAM
 
  ![rental user diagram](https://user-images.githubusercontent.com/98865606/160893888-c0866c2d-f682-46ba-9510-f62ab2b2b7c4.jpg)
