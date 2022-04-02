@@ -210,12 +210,8 @@ class rentalmanagement:
         print ("Your final total Purchased is:",self.rt+self.a,"\n")
         self.rno+=1
 
-            
-
         
-
         
-
 def main():
 
     a=rentalmanagement()
